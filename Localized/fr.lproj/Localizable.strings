@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Jey on 8/26/16.
+  Copyright © 2016 Jey. All rights reserved.
+*/
+
+"01" = "Titre du film";
+"02" = "Catégorie";
+"03" = "Évaluation";
+"04" = "Date de sortie";
+"05" = "Réalisateur";
+"06" = "Étoiles";
+"07" = "Lien";
+"08" = "Informations sur le film";
+"09" = "Drame";
+"10" = "Changer de langue";
+"11" = "Annuler";
+"12" = "Appa";
+"13" = "Samuthirakani";
+"14" = "Thambi Ramayya";

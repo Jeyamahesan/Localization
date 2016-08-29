@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9AB5A3D41D740C7C00B1D5A2"
+               BlueprintIdentifier = "9AE1FA7D1D706155004894BB"
                BuildableName = "LocalizationDemo.app"
                BlueprintName = "LocalizationDemo"
                ReferencedContainer = "container:LocalizationDemo.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9AB5A3D41D740C7C00B1D5A2"
+            BlueprintIdentifier = "9AE1FA7D1D706155004894BB"
             BuildableName = "LocalizationDemo.app"
             BlueprintName = "LocalizationDemo"
             ReferencedContainer = "container:LocalizationDemo.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9AB5A3D41D740C7C00B1D5A2"
+            BlueprintIdentifier = "9AE1FA7D1D706155004894BB"
             BuildableName = "LocalizationDemo.app"
             BlueprintName = "LocalizationDemo"
             ReferencedContainer = "container:LocalizationDemo.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9AB5A3D41D740C7C00B1D5A2"
+            BlueprintIdentifier = "9AE1FA7D1D706155004894BB"
             BuildableName = "LocalizationDemo.app"
             BlueprintName = "LocalizationDemo"
             ReferencedContainer = "container:LocalizationDemo.xcodeproj">
