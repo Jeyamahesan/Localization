@@ -137,8 +137,7 @@ alpha:1.0]
     }
 }
 
-#pragma mark -
-#pragma mark UIActionsheet Delegete
+#pragma mark - UIActionsheet Delegete
 
 - (void)actionSheet:(UIActionSheet *)actionSheet clickedButtonAtIndex:(NSInteger)buttonIndex
 {
